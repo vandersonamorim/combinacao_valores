@@ -38,4 +38,4 @@ A partir da utilização dese programa, o setor financeiro pode obter a informa�
 ## Próximos Passos
 
 - Melhorar visual do programa.
-- Utilizar algoritmos mais performáticos para grandes quantidades de números.
+- Utilizar algoritmos mais performáticos para quantidades de números maiores.
