@@ -9,6 +9,8 @@ Essa falta de detalhes prejudicava a comunicação entre o setor financeiro e a 
 - Financeiro realiza controle interno através do Excel ou Google Sheets.
 - Valores foram formatados com base na moeda brasileira (R$).
 - Usuário irá apenas copiar os valores da planilha e colar no programa.
+- Baixa quantidade de números inseridos (cerca de 15 números).
+
 ## Solução Utilizada
 
 O código utilizado percorre todas as combinações possíveis de uma lista números informados, armazenando a combinação de valores que mais se apoxima do resultado desejado. Além de informar qual a combinação de valores, o programa informa qual era o valor desejado e qual o valor mais próximo que conseguiu-se obter de acordo com os números fornecidos.
