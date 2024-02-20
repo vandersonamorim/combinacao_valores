@@ -14,9 +14,17 @@ Essa falta de detalhes prejudicava a comunicação entre o setor financeiro e a 
 ## Solução Utilizada
 
 O código utilizado percorre todas as combinações possíveis de uma lista números informados, armazenando a combinação de valores que mais se apoxima do resultado desejado. Além de informar qual a combinação de valores, o programa informa qual era o valor desejado e qual o valor mais próximo que conseguiu-se obter de acordo com os números fornecidos.
+
 ## Produto Final do Projeto
 
 Arquivo executável que pode ser utilizado sem a necessidade de instalar Python.
+
+- Página incial:
+
+![Pagina Inicial](inicial.png)
+- Exemplo de resultado:
+
+![Exemplo de Resultado](resultado.png)
 
 
 ## Como Utilizar
